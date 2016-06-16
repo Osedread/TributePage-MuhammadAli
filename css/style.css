@@ -1,0 +1,12 @@
+body {
+	background-color: #e6ffe6;
+	text-align: justify;
+}
+
+img {
+  max-width: 150px;
+}
+
+.jumbotron {
+   margin-top: 60px;
+}
